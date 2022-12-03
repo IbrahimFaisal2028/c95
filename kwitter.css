@@ -1,0 +1,16 @@
+#logout{
+    float: right;
+    width: 80px;
+}
+body
+{
+    background: linear-gradient(#28b7d4 0%, #32db65 100%);
+    text-align: center;
+    margin-top: 300px;
+}
+#logo{
+    width: 110px;
+}
+input{
+    margin: 20px;
+}
